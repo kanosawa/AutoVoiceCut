@@ -2,8 +2,9 @@
 ボイスカット（複数のセリフが収録された音声ファイルから、セリフごとに音声を切り出す作業）を自動化するツールです。
 
 # デモ
-![AutoVoiceCut](https://github.com/kanosawa/AutoVoiceCut/assets/13146290/540bc0eb-d5b4-48f5-b1ac-1500f26aa6e3)
+https://github.com/kanosawa/AutoVoiceCut/assets/13146290/08d73385-dd67-4af7-adfc-5d053eb41eb7  
 
+※VOICEVOX:ずんだもん
 
 ### ダウンロード
 [Releases](https://github.com/kanosawa/AutoVoiceCut/releases) からダウンロードをお願いします。
