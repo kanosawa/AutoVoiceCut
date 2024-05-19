@@ -1,6 +1,9 @@
 # AutoVoiceCut
 ボイスカット（複数のセリフが収録された音声ファイルから、セリフごとに音声を切り出す作業）を自動化するツールです。
 
+### ダウンロード
+[Releases](https://github.com/kanosawa/AutoVoiceCut/releases) からダウンロードをお願いします。
+
 ### 使い方
 以下のnote記事を参照ください。  
 [AutoVoiceCutの使い方](https://note.com/nutrients/n/ne1b8b9514d05)
